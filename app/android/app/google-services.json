@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499532072600",
+    "firebase_url": "https://musicroom-e2706-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "musicroom-e2706",
+    "storage_bucket": "musicroom-e2706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499532072600:android:c666bc5ca05e499cb8b2ed",
+        "android_client_info": {
+          "package_name": "com.fortytwo.music_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499532072600-oj385q6l7vnh5d38k88vm3pj0vkb8613.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZQ9RTmHKxUuj-InmeQjjUvfX0Wp29ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499532072600-oj385q6l7vnh5d38k88vm3pj0vkb8613.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
